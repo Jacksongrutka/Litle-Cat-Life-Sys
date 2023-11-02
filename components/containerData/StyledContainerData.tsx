@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 export const StyledContainerData = styled.div`
-    width: 80%;
-    background-color: blue;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
 `
